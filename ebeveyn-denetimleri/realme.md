@@ -17,7 +17,7 @@ layout:
 
 # Realme
 
-### 1. Nereden ulaşılır?
+### 1. Nereden Ulaşılır?
 
 * Ana ekrandan **Ayarlar** uygulamasını aç.
 * Aşağıya kaydır ve **Dijital Denge ve ebeveyn denetimleri** bölümünü bul.
@@ -65,7 +65,7 @@ Gün içinde belirli bir süre aşıldığında kullanıcıyı uyarır. Örneği
 
 ***
 
-### 3. Ebeveyn Denetimleri (Sayfanın en altında yer alır)
+### 3. Ebeveyn Denetimleri (Sayfanın En Altında Yer Alır)
 
 Sayfanın en altına indiğinde **“Ebeveyn denetimlerini ayarla”** şeklinde mavi bir yazı görürsün. Bu özellik, çocuğun cihaz kullanımını daha ayrıntılı şekilde yönetmek isteyen veliler içindir.
 

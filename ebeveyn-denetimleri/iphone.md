@@ -17,7 +17,7 @@ layout:
 
 # iPhone
 
-### 1. Nereden ulaşılır?
+### 1. Nereden Ulaşılır?
 
 * Ana ekrandan **Ayarlar** uygulamasını aç.
 * Aşağıya kaydır ve **Ekran Süresi** bölümüne dokun.
