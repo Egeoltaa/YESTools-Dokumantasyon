@@ -18,3 +18,9 @@ layout:
 
 # Hoşgeldiniz!
 
+{% hint style="info" %}
+**Katkıda Bulunanlar:**
+
+* [Emirhan Eksen](https://gitlab.cozizle.com/emirhneks)
+* [Ege Olta](https://gitlab.cozizle.com/Egeoltaa)
+{% endhint %}
