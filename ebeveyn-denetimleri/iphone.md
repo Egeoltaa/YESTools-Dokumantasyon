@@ -1,11 +1,10 @@
 ---
-icon: hand-wave
 layout:
   width: default
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -16,5 +15,5 @@ layout:
     visible: true
 ---
 
-# Hoşgeldiniz!
+# iPhone
 
