@@ -23,7 +23,7 @@ layout:
 * Türkiye Akademi platformu **en iyi Firefox tarayıcısı ile çalışır**.
 * Diğer tarayıcılarda bazı özellikler sınırlı çalışabilir veya doğru görüntülenmeyebilir.
 
-<div><figure><img src=".gitbook/assets/logo.svg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Firefox_logo,_2019.svg" alt="" width="128"><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/image.svg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (1).svg" alt="" width="128"><figcaption></figcaption></figure></div>
 
 ***
 
