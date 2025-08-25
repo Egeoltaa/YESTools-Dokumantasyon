@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Derslere Nasıl İçerik Eklenir?
 
 ### 1. E-Eğitim Modülünü Açın
@@ -5,7 +22,7 @@
 * Sol tarafta yer alan **mor modüller ekranından** **E-Eğitim** modülünü seçin.
 * Karşınıza sorumlu olduğunuz derslerin listelendiği bir ekran gelecektir.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="242"><figcaption></figcaption></figure>
 
 ***
 
@@ -15,7 +32,7 @@
 * Ardından **“Derse Git”** butonuna tıklayın.
 * Açılan ekranda, dersinize dair tüm bilgilere kolayca erişebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 ***
 
@@ -24,7 +41,7 @@
 * Sayfayı aşağıya kaydırın ve **Ders İçeriği** başlığını bulun.
 * Burada dersinizdeki mevcut bölümler listelenir.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

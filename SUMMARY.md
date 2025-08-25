@@ -11,3 +11,4 @@
 ## Öğretmen Rehberi
 
 * [Derslere Nasıl İçerik Eklenir?](ogretmen-rehberi/derslere-nasil-icerik-eklenir.md)
+* [Derslerdeki İçerikler Nasıl Düzenlenir?](ogretmen-rehberi/derslerdeki-icerikler-nasil-duzenlenir.md)
