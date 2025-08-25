@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Derslerdeki İçerikler Nasıl Düzenlenir?
+# Video İçeriklerine Kazanım Nasıl Eklenir?
 
 ### 1. E-Eğitim Modülünü Açın
 
@@ -28,7 +28,7 @@ layout:
 
 ### 2. Dersi Seçin
 
-* İçerik düzenlemek istediğiniz dersi seçin.
+* Kazanım eklemek istediğiniz dersi seçin.
 * Ardından **“Derse Git”** butonuna tıklayın.
 * Açılan ekranda, dersinize dair tüm bilgilere kolayca erişebilirsiniz.
 
@@ -53,30 +53,25 @@ layout:
 
 ***
 
-### 5. İçeriği Düzenleme Butonunu Bulun
+### 5. Kazanım Ekle Butonuna Tıklayın
 
-* İçeriklerin sağ tarafında bir **“İçeriği Düzenle”** butonu göreceksiniz.
-* Bu buton, üzerine **gelinmediğinde gri**, üzerine **fare ile gelindiğinde mor** renkte görünür.
-* **İçeriği Düzenle** butonuna tıklayarak içerik başlığı ve açıklamasını güncelleyebilirsiniz.
+* Video içeriklerinin sağ tarafında bulunan **yeşil “Kazanım Ekle”** butonuna tıklayın.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-### 6. İçeriğin İçini Düzenleme
+### 6. Kazanım Bilgilerini Girin
 
-* Eğer içeriğin kendisi (yani iç kısmı) düzenlenecekse, içerik türüne dikkat edilmelidir.
-* **Yalnızca şu içerik türlerinin içi düzenlenebilir:**
-  * 📝 Metin
-  * 💻 Kod
-  * ✅ Test
-* **Video, Ses, Resim ve Dosya türlerinde içeriklerin iç kısmı düzenlenemez.**
+* Açılan ekranda **Kazanım Açıklaması** kısmına, videoya eklenecek kazanımı yazın.
+* **Başlangıç Zamanı**: Kazanımın videonun kaçıncı dakikasında ve saniyesinde başladığını belirtin.
+* **Bitiş Zamanı**: Kazanımın videonun kaçıncı dakikasında ve saniyesinde bittiğini belirtin.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-### 8. İçeriklerin Sırasını Değiştirme
+### 7. Kazanımı Kaydedin
 
-* Ders içerisindeki içeriklerin sıralamasını değiştirmek için **sürükle-bırak** özelliğini kullanabilirsiniz.
-* İstediğiniz içeriği fare ile tutup, listede istediğiniz konuma taşıyın.
+* Tüm bilgileri doldurduktan sonra **Kaydet** butonuna basın.
+* Artık video içeriğinizde ilgili kazanım başarıyla tanımlanmış olacaktır.

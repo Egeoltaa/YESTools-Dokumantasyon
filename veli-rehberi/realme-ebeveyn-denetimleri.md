@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Realme
+# Realme Ebeveyn Denetimleri
 
 ### 1. Nereden Ulaşılır?
 
@@ -23,7 +23,7 @@ layout:
 * Aşağıya kaydır ve **Dijital Denge ve ebeveyn denetimleri** bölümünü bul.
 * Burada gün içinde telefonda ne kadar vakit geçirildiği, hangi uygulamaların kullanıldığı ve kaç bildirim alındığı görülür.
 
-<figure><img src="../.gitbook/assets/kullanim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@ Belirli uygulamalara günlük kullanım sınırı koymak için kullanılır. Ör
 
 **Nasıl ayarlanır:** “Uygulama süre ölçerleri” yazısına dokun. Açılan listeden uygulama seçilir ve süre belirlenir.
 
-<figure><img src="../.gitbook/assets/ozellikler.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -78,4 +78,4 @@ Sayfanın en altına indiğinde **“Ebeveyn denetimlerini ayarla”** şeklinde
 
 Bu adımlar ileri seviye kullanım için uygundur. Eğer yalnızca telefonun kendi içindeki özellikler yeterliyse yukarıda anlatılan süre sınırlamaları ve odak modları tek başına kullanılabilir.
 
-<figure><img src="../.gitbook/assets/denetim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).jpg" alt="" width="375"><figcaption></figcaption></figure>

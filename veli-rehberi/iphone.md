@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# iPhone
+# iPhone Ebeveyn Denetimleri
 
 ### 1. Nereden Ulaşılır?
 
@@ -23,7 +23,7 @@ layout:
 * Aşağıya kaydır ve **Ekran Süresi** bölümüne dokun.
 * Buradan günlük kullanım süresi, en çok kullanılan uygulamalar ve alınan bildirim sayısı görülebilir.
 
-<figure><img src="../.gitbook/assets/IMG-20250729-WA0008~4.jpg" alt="" width="520"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).jpg" alt="" width="520"><figcaption></figcaption></figure>
 
 ***
 
@@ -35,7 +35,7 @@ Gün içinde ekranda ne kadar vakit geçirildiği gösterilir. Hangi gün, hangi
 
 **Nasıl bakılır:** “Ekran Süresi” menüsünden “Tüm Etkinlikleri Gör” seçeneğine dokun. Günlük ve haftalık raporlar incelenebilir.
 
-<figure><img src="../.gitbook/assets/IMG-20250729-WA0009~7.jpg" alt="" width="366"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).jpg" alt="" width="366"><figcaption></figcaption></figure>
 
 ***
 
