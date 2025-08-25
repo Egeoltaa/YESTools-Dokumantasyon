@@ -2,8 +2,12 @@
 
 * [Hoşgeldiniz!](README.md)
 
-## Ebeveyn Denetimleri
+## Veli Rehberi
 
-* [iPhone](ebeveyn-denetimleri/iphone.md)
-* [Samsung](ebeveyn-denetimleri/samsung.md)
-* [Realme](ebeveyn-denetimleri/realme.md)
+* [iPhone Ebeveyn Denetimleri](veli-rehberi/iphone.md)
+* [Samsung Ebeveyn Denetimleri](veli-rehberi/samsung.md)
+* [Realme Ebeveyn Denetimleri](veli-rehberi/realme-ebeveyn-denetimleri.md)
+
+## Öğretmen Rehberi
+
+* [Derslere Nasıl İçerik Eklenir?](ogretmen-rehberi/derslere-nasil-icerik-eklenir.md)
