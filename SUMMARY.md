@@ -14,3 +14,5 @@
 * [Derslere Nasıl İçerik Eklenir?](ogretmen-rehberi/derslere-nasil-icerik-eklenir.md)
 * [Derslerdeki İçerikler Nasıl Düzenlenir?](ogretmen-rehberi/derslerdeki-icerikler-nasil-duzenlenir.md)
 * [Video İçeriklerine Kazanım Nasıl Eklenir?](ogretmen-rehberi/video-iceriklerine-kazanim-nasil-eklenir.md)
+* [Akademik Takvim Nasıl Kullanılır?](ogretmen-rehberi/akademik-takvim-nasil-kullanilir.md)
+* [Anket Nasıl Oluşturulur?](ogretmen-rehberi/anket-nasil-olusturulur.md)
