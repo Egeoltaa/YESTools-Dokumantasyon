@@ -26,3 +26,8 @@
   * [Toplantılara Nasıl Katılınır?](ogretmen-rehberi/toplantilar/toplantilara-nasil-katilinir.md)
 * [Anketler](ogretmen-rehberi/anketler/README.md)
   * [Anket Nasıl Oluşturulur?](ogretmen-rehberi/anketler/anket-nasil-olusturulur.md)
+
+## Öğrenci Rehberi
+
+* [Toplantılar](ogrenci-rehberi/toplantilar/README.md)
+  * [Toplantılara Nasıl Katılınır?](ogrenci-rehberi/toplantilar/toplantilara-nasil-katilinir.md)
