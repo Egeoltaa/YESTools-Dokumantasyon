@@ -58,5 +58,3 @@ layout:
 ### 6. Anketi Güncelleyin
 
 * Son olarak **Güncelle** butonuna basın.
-
-***

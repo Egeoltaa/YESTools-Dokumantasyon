@@ -17,7 +17,7 @@ layout:
 
 # Samsung Ebeveyn Denetimleri
 
-### 📱 **Dijital Sağlık Ekranına Erişim**
+### **1. Dijital Sağlık Ekranına Erişim**
 
 Öğrencinin cihazındaki **Dijital Sağlık** ayarlarına şu adımları takip ederek ulaşabilirsiniz:
 
@@ -29,13 +29,15 @@ layout:
 
 ***
 
-### **1. Toplam Ekran Süresi**
+### **2. Toplam Ekran Süresi**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (19).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Ekranın en üst kısmında, öğrencinin gün içinde telefon ekranını aktif olarak kullandığı toplam süre görüntülenir. Bu süre, öğrencinin dijital cihazda geçirdiği zamanın genel bir özetidir. **Önceki günleri incelemek için bu alana tıklanabilir.** Böylece geçmişe ait kullanım verileri de erişilebilir.
 
-### **2. En Çok Kullanılan Uygulamalar**
+***
+
+### **3. En Çok Kullanılan Uygulamalar**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (20).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -47,7 +49,9 @@ Kullanıcıların hangi uygulamalarda ne kadar vakit geçirdiği ayrıntılı ol
 
 Bu bilgiler sayesinde öğrencinin dikkatini en çok hangi platformlara verdiği rahatlıkla görülebilir.
 
-### **3. Uygulama Kategorileri**
+***
+
+### **4. Uygulama Kategorileri**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (13).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -60,25 +64,33 @@ Kullanım süresi, uygulama türlerine göre kategorilere ayrılmıştır. Örne
 
 Bu sayede yalnızca bireysel uygulamalar değil, kullanım alışkanlıkları da bütünsel olarak değerlendirilebilir.
 
-### **4. Ekran Süresi Hedefi Belirleme**
+***
+
+### **5. Ekran Süresi Hedefi Belirleme**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (14).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Veliler, öğrencinin ekran süresini yönetebilmek adına günlük ekran süresi hedefi belirleyebilir.
 
-### **5. Uygulama Zamanlayıcıları**
+***
+
+### **6. Uygulama Zamanlayıcıları**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (15).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Instagram gibi belirli uygulamalar veya sosyal medya gibi belirli kategoriler için günlük kullanım süresi sınırı ayarlanabilir.
 
-### **6. İçerik Kısıtlamaları**
+***
+
+### **7. İçerik Kısıtlamaları**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (16).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Samsung Internet ve Galaxy Store üzerinden çocuklara uygun içerik filtreleri ve satın alma kısıtlamaları uygulanabilir.
 
-### **7. Ebeveyn Denetimi**
+***
+
+### &#x38;**. Ebeveyn Denetimi**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (17).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -86,7 +98,9 @@ Ebeveyn denetimi altında kullanım süresi ve uygulama erişimi gibi konularda 
 
 {% embed url="https://youtu.be/cIScxBRlUfA" fullWidth="false" %}
 
-### &#x38;**. Odak ve Uyku Modları**
+***
+
+### &#x39;**. Odak ve Uyku Modları**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (18).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
