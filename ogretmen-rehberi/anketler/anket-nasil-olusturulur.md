@@ -21,7 +21,7 @@ layout:
 
 * Sol kısımda bulunan **Anketler** bölümüne tıklayın.
 
-<figure><img src="../../.gitbook/assets/Ekran görüntüsü 2025-09-02 120840.png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="235"><figcaption></figcaption></figure>
 
 ***
 
@@ -33,7 +33,7 @@ layout:
 * Sayfalama yönetimini seçin.
 * Ardından **Anket Oluştur** butonuna tıklayın.
 
-<figure><img src="../../.gitbook/assets/anket.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

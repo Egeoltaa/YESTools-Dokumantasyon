@@ -2,6 +2,8 @@
 
 * [Hoşgeldiniz!](README.md)
 * [Tarayıcı Rehberi](tarayici-rehberi.md)
+* [Toplantı Rehberi](toplanti-rehberi.md)
+* [Uzaktan Erişim Rehberi](uzaktan-erisim-rehberi.md)
 
 ## Veli Rehberi
 
