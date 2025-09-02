@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Toplantılara Neden Katılamıyorum? (iOS)
 
 ***
@@ -20,7 +37,7 @@ Bu adımları uyguladıktan sonra toplantılara sorunsuz şekilde katılabilirsi
 “Pencereleri Engelle” seçeneği açık kalırsa toplantılar açılmayabilir. Bu yüzden ayarın kapalı olduğundan emin olun.
 {% endhint %}
 
-<div align="center"><figure><img src="../../.gitbook/assets/WhatsApp Görsel 2025-09-02 saat 16.04.45_632660d9.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
