@@ -24,6 +24,8 @@
 * [Toplantılar](ogretmen-rehberi/toplantilar/README.md)
   * [Toplantı Nasıl Oluşturulur?](ogretmen-rehberi/toplantilar/toplanti-nasil-olusturulur.md)
   * [Toplantılara Nasıl Katılınır?](ogretmen-rehberi/toplantilar/toplantilara-nasil-katilinir.md)
+  * [Toplantılara Neden Katılamıyorum? (iOS)](ogretmen-rehberi/toplantilar/toplantilara-neden-katilamiyorum-ios.md)
+  * [Toplantılara Neden Katılamıyorum? (Android)](ogretmen-rehberi/toplantilar/toplantilara-neden-katilamiyorum-android.md)
 * [Anketler](ogretmen-rehberi/anketler/README.md)
   * [Anket Nasıl Oluşturulur?](ogretmen-rehberi/anketler/anket-nasil-olusturulur.md)
 
