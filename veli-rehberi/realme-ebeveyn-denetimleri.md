@@ -23,7 +23,7 @@ layout:
 * Aşağıya kaydır ve **Dijital Denge ve ebeveyn denetimleri** bölümünü bul.
 * Burada gün içinde telefonda ne kadar vakit geçirildiği, hangi uygulamaların kullanıldığı ve kaç bildirim alındığı görülür.
 
-<figure><img src="../.gitbook/assets/image (2) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

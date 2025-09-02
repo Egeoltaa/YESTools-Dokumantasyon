@@ -1,5 +1,4 @@
 ---
-icon: alarm-clock
 layout:
   width: default
   title:
@@ -23,7 +22,7 @@ layout:
 * Türkiye Akademi platformunda toplantılar **Zoom** üzerinden gerçekleştirilir.
 * En iyi deneyimi yaşamak için Zoom uygulamasını bilgisayarınıza veya mobil cihazınıza indirip kurmanız önerilir.
 
-<div><figure><img src=".gitbook/assets/image.svg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image.png" alt="" width="120"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image.svg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image.png" alt="" width="120"><figcaption></figcaption></figure></div>
 
 ***
 

@@ -1,5 +1,4 @@
 ---
-icon: desktop
 layout:
   width: default
   title:
@@ -23,7 +22,7 @@ layout:
 * Türkiye Akademi’de teknik sorunların çözümü için uzaktan erişim gerektiğinde **AnyDesk** kullanılmaktadır.
 * Öğrencilerimizin ve öğretmenlerimizin cihazlarında AnyDesk’in kurulu olması, destek ekibimizin problemleri daha hızlı ve verimli çözmesini sağlar.
 
-<div><figure><img src=".gitbook/assets/image.svg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image.webp" alt="" width="109"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image.svg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image.webp" alt="" width="109"><figcaption></figcaption></figure></div>
 
 ***
 

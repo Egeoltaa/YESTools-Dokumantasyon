@@ -22,7 +22,7 @@ layout:
 * Sol tarafta yer alan **mor modüller ekranından** **E-Eğitim** modülünü seçin.
 * Karşınıza sorumlu olduğunuz derslerin listelendiği bir ekran gelecektir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="242"><figcaption></figcaption></figure>
 
 ***
 
@@ -41,7 +41,7 @@ layout:
 * Sayfayı aşağıya kaydırın ve **Ders İçeriği** başlığını bulun.
 * Burada dersinizdeki mevcut bölümler listelenir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -59,7 +59,7 @@ layout:
 * Bu buton, üzerine **gelinmediğinde gri**, üzerine **fare ile gelindiğinde mor** renkte görünür.
 * **İçeriği Düzenle** butonuna tıklayarak içerik başlığı ve açıklamasını güncelleyebilirsiniz.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -21,7 +21,7 @@ layout:
 
 Sol tarafta bulunan **E-Eğitim** modülünü seçin.
 
-<figure><img src="../../.gitbook/assets/image (1).jpg" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/e-egitim (1).jpg" alt="" width="238"><figcaption></figcaption></figure>
 
 ***
 
@@ -37,7 +37,7 @@ Kendi dersinize tıklayarak ders sayfanızı açın.
 
 Sayfanın orta kısmında bulunan **Akademik Takvim** seçeneğine basın.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/akademik.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
