@@ -21,5 +21,8 @@
   * [Derslerdeki İçerikler Nasıl Düzenlenir?](ogretmen-rehberi/e-egitim/derslerdeki-icerikler-nasil-duzenlenir.md)
   * [Video İçeriklerine Kazanım Nasıl Eklenir?](ogretmen-rehberi/e-egitim/video-iceriklerine-kazanim-nasil-eklenir.md)
   * [Akademik Takvim Nasıl Kullanılır?](ogretmen-rehberi/e-egitim/akademik-takvim-nasil-kullanilir.md)
+* [Toplantılar](ogretmen-rehberi/toplantilar/README.md)
+  * [Toplantı Nasıl Oluşturulur?](ogretmen-rehberi/toplantilar/toplanti-nasil-olusturulur.md)
+  * [Toplantılara Nasıl Katılınır?](ogretmen-rehberi/toplantilar/toplantilara-nasil-katilinir.md)
 * [Anketler](ogretmen-rehberi/anketler/README.md)
   * [Anket Nasıl Oluşturulur?](ogretmen-rehberi/anketler/anket-nasil-olusturulur.md)

@@ -19,7 +19,7 @@ layout:
 
 ### 1. E-Eğitim Modülünü Açın
 
-* Sol tarafta yer alan **mor modüller ekranından** **E-Eğitim** modülünü seçin.
+* Sol tarafta yer alan modüller ekranından **E-Eğitim** modülünü seçin.
 * Karşınıza sorumlu olduğunuz derslerin listelendiği bir ekran gelecektir.
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="242"><figcaption></figcaption></figure>
