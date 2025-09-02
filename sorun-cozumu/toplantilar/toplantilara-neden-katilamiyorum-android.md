@@ -19,6 +19,8 @@ layout:
 
 Android cihazınızda toplantılara katılamıyorsanız, Chrome tarayıcısında **Pop-up ve Yönlendirmeler** kapalı olabilir. Bu ayarı açarak sorunu çözebilirsiniz.
 
+***
+
 ### Adımlar:
 
 * **Chrome** uygulamasını açın.
@@ -29,5 +31,7 @@ Android cihazınızda toplantılara katılamıyorsanız, Chrome tarayıcısında
 * Ayarın **izin verildiğinden** emin olun.
 
 Bu işlemleri yaptıktan sonra toplantılara sorunsuz şekilde katılabilirsiniz.
+
+***
 
 <div><figure><img src="../../.gitbook/assets/image (21).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (22).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (23).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
