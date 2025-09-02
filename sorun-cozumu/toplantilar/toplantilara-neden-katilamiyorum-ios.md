@@ -34,7 +34,8 @@ Bu adımları uyguladıktan sonra toplantılara sorunsuz şekilde katılabilirsi
 ***
 
 {% hint style="info" %}
-“Pencereleri Engelle” seçeneği açık kalırsa toplantılar açılmayabilir. Bu yüzden ayarın kapalı olduğundan emin olun.
+* Bu tarz toplantı veya platform problemlerinin önüne geçmek için **Firefox tarayıcısı** kullanmanız önerilmektedir. Firefox, Türkiye Akademi platformunda en stabil ve uyumlu deneyimi sunar.
+* Daha detaylı bilgi için [**Tarayıcı Rehberi**](../../uygulama-rehberi/tarayici-rehberi.md)’ne göz atabilirsiniz.
 {% endhint %}
 
 <div align="center"><figure><img src="../../.gitbook/assets/image.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
