@@ -34,9 +34,11 @@ Bu işlemleri yaptıktan sonra toplantılara sorunsuz şekilde katılabilirsiniz
 
 ***
 
+<div><figure><img src="../../.gitbook/assets/image (21).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (22).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (23).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+
+***
+
 {% hint style="info" %}
 * Bu tarz toplantı veya platform problemlerinin önüne geçmek için **Firefox tarayıcısı** kullanmanız önerilmektedir. Firefox, Türkiye Akademi platformunda en stabil ve uyumlu deneyimi sunar.
 * Daha detaylı bilgi için [**Tarayıcı Rehberi**](../../uygulama-rehberi/tarayici-rehberi.md)’ne göz atabilirsiniz.
 {% endhint %}
-
-<div><figure><img src="../../.gitbook/assets/image (21).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (22).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (23).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
