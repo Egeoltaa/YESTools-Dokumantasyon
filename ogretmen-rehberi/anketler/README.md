@@ -1,5 +1,4 @@
 ---
-icon: clipboard-list
 layout:
   width: default
   title:

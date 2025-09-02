@@ -1,5 +1,4 @@
 ---
-icon: school
 layout:
   width: default
   title:
