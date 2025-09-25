@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Toplantılara Neden Katılamıyorum? (iOS)
+# Toplantılara Neden Katılamıyorum? – Pencereleri Engelle (iOS)
 
 Eğer iOS cihazınızda toplantılara katılmakta sorun yaşıyorsanız, Safari ayarlarında **Pencereleri Engelle** seçeneğinin açık olması bu soruna sebep olabilir. Bu ayarı kapatarak problemi çözebilirsiniz.
 
@@ -33,7 +33,7 @@ Bu adımları uyguladıktan sonra toplantılara sorunsuz şekilde katılabilirsi
 
 ***
 
-<div align="center"><figure><img src="../../.gitbook/assets/image.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ***
 

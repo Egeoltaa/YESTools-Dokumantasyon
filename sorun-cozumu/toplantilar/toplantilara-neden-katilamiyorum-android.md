@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Toplantılara Neden Katılamıyorum? (Android)
+# Toplantılara Neden Katılamıyorum? – Pop-up ve Yönlendirmeler (Android)
 
 Android cihazınızda toplantılara katılamıyorsanız, Chrome tarayıcısında **Pop-up ve Yönlendirmeler** kapalı olabilir. Bu ayarı açarak sorunu çözebilirsiniz.
 

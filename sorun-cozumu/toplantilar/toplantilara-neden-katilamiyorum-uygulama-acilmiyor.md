@@ -31,7 +31,7 @@ Tarayıcı üzerinden katıldığınızda bazı özellikler sınırlı olabilir.
 
 ***
 
-<figure><img src="../../.gitbook/assets/WhatsApp Görsel 2025-09-24 saat 19.07.12_8545884e.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
