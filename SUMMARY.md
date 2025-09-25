@@ -35,5 +35,6 @@
 ## Sorun Çözümü
 
 * [Toplantılar](sorun-cozumu/toplantilar/README.md)
-  * [Toplantılara Neden Katılamıyorum? (iOS)](sorun-cozumu/toplantilar/toplantilara-neden-katilamiyorum-ios.md)
-  * [Toplantılara Neden Katılamıyorum? (Android)](sorun-cozumu/toplantilar/toplantilara-neden-katilamiyorum-android.md)
+  * [Toplantılara Neden Katılamıyorum? – Pencereleri Engelle (iOS)](sorun-cozumu/toplantilar/toplantilara-neden-katilamiyorum-pencereleri-engelle-ios.md)
+  * [Toplantılara Neden Katılamıyorum? – Pop-up ve Yönlendirmeler (Android)](sorun-cozumu/toplantilar/toplantilara-neden-katilamiyorum-pop-up-ve-yonlendirmeler-android.md)
+  * [Toplantılara Neden Katılamıyorum? – Uygulama Açılmıyor](sorun-cozumu/toplantilar/toplantilara-neden-katilamiyorum-uygulama-acilmiyor.md)
