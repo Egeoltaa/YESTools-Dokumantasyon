@@ -76,7 +76,7 @@ layout:
 
 ***
 
-### 8. İçeriklerin Sırasını Değiştirme
+### 7. İçeriklerin Sırasını Değiştirme
 
 * Ders içerisindeki içeriklerin sıralamasını değiştirmek için **sürükle-bırak** özelliğini kullanabilirsiniz.
 * İstediğiniz içeriği fare ile tutup, listede istediğiniz konuma taşıyın.

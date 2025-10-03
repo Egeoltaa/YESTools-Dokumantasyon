@@ -18,6 +18,7 @@
 
 * [E-Eğitim](ogretmen-rehberi/e-egitim/README.md)
   * [Derslere Nasıl İçerik Eklenir?](ogretmen-rehberi/e-egitim/derslere-nasil-icerik-eklenir.md)
+  * [Testlere Toplu Soru ve Cevap Anahtarı Nasıl Yüklenir?](ogretmen-rehberi/e-egitim/testlere-toplu-soru-ve-cevap-anahtari-nasil-yuklenir.md)
   * [Derslerdeki İçerikler Nasıl Düzenlenir?](ogretmen-rehberi/e-egitim/derslerdeki-icerikler-nasil-duzenlenir.md)
   * [Video İçeriklerine Kazanım Nasıl Eklenir?](ogretmen-rehberi/e-egitim/video-iceriklerine-kazanim-nasil-eklenir.md)
   * [Akademik Takvim Nasıl Kullanılır?](ogretmen-rehberi/e-egitim/akademik-takvim-nasil-kullanilir.md)
