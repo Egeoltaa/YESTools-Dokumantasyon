@@ -29,7 +29,7 @@ Sol tarafta bulunan **E-Eğitim** modülünü seçin.
 
 Kendi dersinize tıklayarak ders sayfanızı açın.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 ***
 

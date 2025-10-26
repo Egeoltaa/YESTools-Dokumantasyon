@@ -27,6 +27,8 @@
   * [Toplantılara Nasıl Katılınır?](ogretmen-rehberi/toplantilar/toplantilara-nasil-katilinir.md)
 * [Anketler](ogretmen-rehberi/anketler/README.md)
   * [Anket Nasıl Oluşturulur?](ogretmen-rehberi/anketler/anket-nasil-olusturulur.md)
+* [Görevler](ogretmen-rehberi/gorevler/README.md)
+  * [Görev Nasıl Oluşturulur?](ogretmen-rehberi/gorevler/gorev-nasil-olusturulur.md)
 
 ## Öğrenci Rehberi
 

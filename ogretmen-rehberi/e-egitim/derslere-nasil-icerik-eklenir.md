@@ -22,7 +22,7 @@ layout:
 * Sol tarafta yer alan modüller ekranından **E-Eğitim** modülünü seçin.
 * Karşınıza sorumlu olduğunuz derslerin listelendiği bir ekran gelecektir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="242"><figcaption></figcaption></figure>
 
 ***
 
@@ -32,7 +32,7 @@ layout:
 * Ardından **“Derse Git”** butonuna tıklayın.
 * Açılan ekranda, dersinize dair tüm bilgilere kolayca erişebilirsiniz.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 ***
 
@@ -41,7 +41,7 @@ layout:
 * Sayfayı aşağıya kaydırın ve **Ders İçeriği** başlığını bulun.
 * Burada dersinizdeki mevcut bölümler listelenir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -50,9 +50,9 @@ layout:
 * İçerik eklemek istediğiniz bölüm yoksa, **Bölüm Ekle** butonuna tıklayın.
 * Açılan pencereden **Bölüm Başlığı** ve **Açıklama** girerek yeni bir bölüm oluşturabilirsiniz.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -61,7 +61,7 @@ layout:
 * Mevcut bölümlerin içeriklerini görmek için bölüm başlığının solundaki **ok tuşuna** tıklayın.
 * İçerikler açıldığında listenin en altında **“Bu Bölüme İçerik Ekle”** butonunu göreceksiniz.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ layout:
 * 💻 Kod
 * ✅ Test
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

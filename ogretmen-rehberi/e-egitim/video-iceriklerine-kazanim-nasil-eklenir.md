@@ -22,7 +22,7 @@ layout:
 * Sol tarafta yer alan **mor modüller ekranından** **E-Eğitim** modülünü seçin.
 * Karşınıza sorumlu olduğunuz derslerin listelendiği bir ekran gelecektir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="242"><figcaption></figcaption></figure>
 
 ***
 
@@ -32,7 +32,7 @@ layout:
 * Ardından **“Derse Git”** butonuna tıklayın.
 * Açılan ekranda, dersinize dair tüm bilgilere kolayca erişebilirsiniz.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 ***
 
@@ -41,7 +41,7 @@ layout:
 * Sayfayı aşağıya kaydırın ve **Ders İçeriği** başlığını bulun.
 * Burada dersinizdeki mevcut bölümler listelenir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -49,7 +49,7 @@ layout:
 
 * Mevcut bölümlerin içeriklerini görmek için bölüm başlığının solundaki **ok tuşuna** tıklayın.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -57,7 +57,7 @@ layout:
 
 * Video içeriklerinin sağ tarafında bulunan **yeşil “Kazanım Ekle”** butonuna tıklayın.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -67,7 +67,7 @@ layout:
 * **Başlangıç Zamanı**: Kazanımın videonun kaçıncı dakikasında ve saniyesinde başladığını belirtin.
 * **Bitiş Zamanı**: Kazanımın videonun kaçıncı dakikasında ve saniyesinde bittiğini belirtin.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
